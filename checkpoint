@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/a/SDC/Term3/Project2/CarND-Semantic-Segmentation/model.ckpt"
+all_model_checkpoint_paths: "/home/a/SDC/Term3/Project2/CarND-Semantic-Segmentation/model.ckpt"
